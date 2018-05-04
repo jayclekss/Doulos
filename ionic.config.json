@@ -1,0 +1,8 @@
+{
+  "name": "firevision",
+  "app_id": "dfb8d9b0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
